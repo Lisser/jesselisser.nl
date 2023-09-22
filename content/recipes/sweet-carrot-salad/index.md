@@ -22,3 +22,4 @@ tags: ["Salad", "Carrot", "Vegan", "Whole Foods", "Plant Based", "Buddhist"]
   - Lemon juice
   - Optional: touch of sweetener (agave syrup, maple syrup or honey)
   
+  _Courtesy of Dr. Derrick Brown_ 

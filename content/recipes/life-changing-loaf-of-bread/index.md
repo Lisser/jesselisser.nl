@@ -7,7 +7,7 @@ summary: "A nut-based bread that is easy to make. Extremely fibre rich and full 
 tags: ["Bread", "Recipe", "Vegan", "Whole Foods", "Plant Based"]
 ---
 
-_A copy of the [recipe published by Sarah Britton](https://www.mynewroots.org/site/2013/02/the-life-changing-loaf-of-bread). It has been a staple food in my life for years now._
+_A copy of the lovely [recipe published by Sarah Britton](https://www.mynewroots.org/site/2013/02/the-life-changing-loaf-of-bread)._
 
 ## Ingredients:
   - 1 cup / 135g sunflower seeds
