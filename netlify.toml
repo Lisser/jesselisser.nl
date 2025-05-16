@@ -2,9 +2,6 @@
   publish = "public"
   command = "hugo --gc --minify"
 
-[[plugins]]
-  package = "@netlify/plugin-git-submodules"
-
 [context.production.environment]
   HUGO_VERSION = "0.123.8"
   HUGO_ENV = "production"
