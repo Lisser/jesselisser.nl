@@ -1,30 +1,30 @@
 ---
 author: "Jesse Lisser"
-title: "Rich Chicken Soup"
+title: "🥣 Rich Chicken Soup"
 date: "2023-04-09"
 description: "A mean chicken soup, chock full of vegetables and flavor."
 summary: "A mean chicken soup, chock full of vegetables and flavor."
-tags: ["Soup", "Chicken", "Vegetable", "Rice"]
+tags: ["Soup", "Chicken", "Vegetable", "Rice", "Comfort Food", "One Pot"]
 ---
+_Courtesy of [Dr. Derrick Brown](https://www.linkedin.com/in/derrick-blkin/)_ 
 
 ## Ingredients
-- Chicken
-
-- Leek / onion
-- Garlic
-- Carrot
-- Knolselderij
-- Thyme little bit parsley
-- Brown rice
-- Turnips 
-
-- Lemon
-- Potato
-- Kip bouillon
-- Laurierblad 
-
-- Broccoli 
-- Coconut oil
+{{< ingredients >}}
+- [ ] Chicken
+- [ ] Leek / onion
+- [ ] Garlic
+- [ ] Carrot
+- [ ] Knolselderij
+- [ ] Thyme little bit parsley
+- [ ] Brown rice
+- [ ] Turnips 
+- [ ] Lemon
+- [ ] Potato
+- [ ] Kip bouillon
+- [ ] Laurierblad 
+- [ ] Broccoli 
+- [ ] Coconut oil
+{{< /ingredients >}}
 
 ## Directions
 - Coconut oil skillet hot
@@ -42,6 +42,3 @@ Add:
 - Turnips 
 
 Lemon
-
-
-_Courtesy of Dr. Derrick Brown_ 

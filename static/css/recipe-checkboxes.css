@@ -1,10 +1,9 @@
-.recipe-checkbox {
-    margin-right: 8px;
-    vertical-align: middle;
-    cursor: pointer;
+/* Remove bullet points from ingredients lists */
+.ingredients-list li {
+    list-style-type: none;
 }
 
-.recipe-checkbox:checked + span {
-    text-decoration: line-through;
-    color: var(--secondary);
+/* Ensure proper spacing for checkbox */
+.ingredients-list li input[type="checkbox"] {
+    margin-right: 0.5em;
 } 

@@ -15,7 +15,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: false
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -46,7 +46,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hello World \U0001F30E"
-    Content: Welcome to the online representation of myself. I host work-related thoughts here, as well as some of my favorite recipes that I have collected over the years.
+    Content: Welcome to my collection of recipes and other insights.
 
   socialIcons:
     - name: github
@@ -70,6 +70,7 @@ params:
 
   mainSections:
     - posts
+    - recipes
 
 menu:
   main:

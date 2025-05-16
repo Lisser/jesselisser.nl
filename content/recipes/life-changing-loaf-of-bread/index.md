@@ -1,25 +1,27 @@
 ---
 author: "Jesse Lisser"
-title: "The Life Changing Loaf of Bread"
+title: "🍞 Life-Changing Loaf of Bread"
 date: "2023-04-10"
 description: "A recipe for a life changing loaf of bread"
 summary: "A nut-based bread that is easy to make. Extremely fibre rich and full of protein."
-tags: ["Bread", "Recipe", "Vegan", "Whole Foods", "Plant Based"]
+tags: ["Bread", "Vegan", "Whole Foods", "Plant Based", "Gluten Free", "High Protein", "High Fiber", "No Knead"]
 ---
 
 _A copy of the lovely [recipe published by Sarah Britton](https://www.mynewroots.org/site/2013/02/the-life-changing-loaf-of-bread)._
 
 ## Ingredients:
-  - 1 cup / 135g sunflower seeds
-  - ½ cup / 90g flax seeds
-  - ½ cup / 65g hazelnuts or almonds
-  - 1 ½ cups / 145g rolled oats
-  - 2 Tbsp. chia seeds
-  - 4 Tbsp. psyllium seed husks (3 Tbsp. if using psyllium husk powder)
-  - 1 tsp. fine grain sea salt (add ½ tsp. if using coarse salt)
-  - 1 Tbsp. maple syrup (for sugar-free diets, use a pinch of stevia)
-  - 3 Tbsp. melted coconut oil or ghee
-  - 1 ½ cups / 350ml water
+{{< ingredients >}}
+- [ ] 1 cup / 135g sunflower seeds
+- [ ] ½ cup / 90g flax seeds
+- [ ] ½ cup / 65g hazelnuts or almonds
+- [ ] 1 ½ cups / 145g rolled oats
+- [ ] 2 Tbsp. chia seeds
+- [ ] 4 Tbsp. psyllium seed husks (3 Tbsp. if using psyllium husk powder)
+- [ ] 1 tsp. fine grain sea salt (add ½ tsp. if using coarse salt)
+- [ ] 1 Tbsp. maple syrup (for sugar-free diets, use a pinch of stevia)
+- [ ] 3 Tbsp. melted coconut oil or ghee
+- [ ] 1 ½ cups / 350ml water
+{{< /ingredients >}}
 
 
 ## Directions:

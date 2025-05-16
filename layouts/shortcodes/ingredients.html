@@ -1,4 +1,5 @@
 {{- $content := .Inner | markdownify -}}
 {{- $content = replace $content "disabled class" "class" -}}
 {{- $content = replace $content "disabled" "" -}}
+{{- $content = replace $content "<ul>" "<ul class=\"ingredients-list\">" -}}
 {{- $content | safeHTML -}} 

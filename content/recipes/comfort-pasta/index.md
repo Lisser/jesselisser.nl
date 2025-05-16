@@ -1,10 +1,15 @@
 ---
-title: "Comfort Pasta"
+title: "🍝 Comfort Pasta"
+date: "2025-05-16"
 description: "Een heerlijke, hartige pasta met riblappen, groenten en een romige tomatensaus"
+summary: "Een heerlijke, hartige pasta met riblappen, groenten en een romige tomatensaus"
 servings: "6-8 personen"
 prepTime: "30 minuten"
 cookTime: "2.5 uur"
+author: "Jesse Lisser"
+tags: ["Pasta", "Beef", "Italian", "Comfort Food", "Oven Baked", "Dutch"]
 ---
+_Courtesy of [Anne Kok](https://www.linkedin.com/in/anne-kok-510985177/)_ 
 
 ## Ingrediënten
 

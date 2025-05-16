@@ -1,10 +1,10 @@
 ---
 author: "Jesse Lisser"
-title: "Basic Miso Ramen"
+title: "🍜 Basic Miso Ramen"
 date: "2023-04-08"
 description: "This recipe can be used as a base for many different ramen dishes."
 summary: "This recipe can be used as a base for many different ramen dishes."
-tags: ["Soup", "Ramen", "Miso", "Noodles", "Salmon"]
+tags: ["Soup", "Ramen", "Miso", "Noodles", "Japanese", "Fish", "Vegetable", "Quick"]
 # cover:
 #   image: "ramen.jpg"
 #   alt: "A bowl or ramen"
@@ -23,8 +23,10 @@ tags: ["Soup", "Ramen", "Miso", "Noodles", "Salmon"]
 
 ## Dashi
 _Ingredients:_
-- Kombu
-- Bonito flakes
+{{< ingredients >}}
+- [ ] Kombu
+- [ ] Bonito flakes
+{{< /ingredients >}}
 
 _Steps:_
 - Soak kombu in water for 30 minutes, 2h or even overnight
@@ -33,14 +35,18 @@ _Steps:_
 - Steep bonito flakes for 5 minutes
 
 ## Veggies
-- Broccoli
-- Snowpeas
-- Shiitake mushrooms
-- Ginger
+{{< ingredients >}}
+- [ ] Broccoli
+- [ ] Snowpeas
+- [ ] Shiitake mushrooms
+- [ ] Ginger
+{{< /ingredients >}}
 
 ## Toppings
-- Smoked fish: salmon, mackerel
-- Sesame oil
-- Scallions
-- Chili flakes
-- Nori
+{{< ingredients >}}
+- [ ] Smoked fish: salmon, mackerel
+- [ ] Sesame oil
+- [ ] Scallions
+- [ ] Chili flakes
+- [ ] Nori
+{{< /ingredients >}}
