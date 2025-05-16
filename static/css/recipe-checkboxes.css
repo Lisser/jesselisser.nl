@@ -1,0 +1,10 @@
+.recipe-checkbox {
+    margin-right: 8px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.recipe-checkbox:checked + span {
+    text-decoration: line-through;
+    color: var(--secondary);
+} 

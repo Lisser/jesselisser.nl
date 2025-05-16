@@ -1,0 +1,101 @@
+baseURL: https://jesselisser.nl/
+title: Jesse Lisser
+languageCode: nl-nl
+
+theme: ["PaperMod"]
+
+params:
+  env: production 
+  title: "Jesse Lisser"
+  description: "Homepage of Jesse Lisser"
+  keywords: [Blog, Recipes]
+  author: Jesse Lisser
+  DateFormat: "2 January 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: false
+  disableSpecial1stPost: false
+  disableScrollToTop: true
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    disableHLJS: true
+    favicon: "favicon/favicon.ico"
+    favicon16x16: "favicon/favicon-16x16.png"
+    favicon32x32: "favicon/favicon-32x32.png"
+    apple_touch_icon: "favicon/favicon.ico"
+    safari_pinned_tab: "favicon/favicon.ico"
+
+  label:
+    text: Jesse Lisser
+    icon: "img/jesselisser-fox-min.png"
+    iconHeight: 35
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hello World \U0001F30E"
+    Content: Welcome to the online representation of myself. I host work-related thoughts here, as well as some of my favorite recipes that I have collected over the years.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/Lisser"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.1
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content", "tags"]
+
+  mainSections:
+    - posts
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: recipes
+      name: Recipes
+      url: /recipes/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30  
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+taxonomies:
+  tag: tags
+  
