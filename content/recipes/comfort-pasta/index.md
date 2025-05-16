@@ -9,33 +9,43 @@ cookTime: "2.5 uur"
 ## Ingrediënten
 
 ### Hoofdingrediënten
+{{< ingredients >}}
 - [ ] 1 kg riblappen (geen magere) - voor een luxe versie, kan ook de helft
 - [ ] 500 gr pasta (conchiglie, rigate of penne)
+{{< /ingredients >}}
 
 ### Mirepoix (fijngemaakt in keukenmachine)
+{{< ingredients >}}
 - [ ] 2 grote uien, fijngesneden
 - [ ] 1 kopje fijngesneden bleekselderij
 - [ ] 1 kopje fijngesneden wortel
 - [ ] 5-6 teentjes knoflook, fijngesneden
+{{< /ingredients >}}
 
 ### Saus
+{{< ingredients >}}
 - [ ] 2 el tomatenpuree
 - [ ] Scheut rode wijn of balsamico azijn
 - [ ] 250 ml runderfond (of water + bouillonblokje)
 - [ ] 1 grote fles passata (of vergelijkbare tomatenbasis)
+{{< /ingredients >}}
 
 ### Groenten (naar keuze)
+{{< ingredients >}}
 - [ ] 1 aubergine, in stukjes
 - [ ] 250 gr kastanje champignons, in plakjes
 - [ ] 300 gr verse spinazie, gehakt
 - [ ] Handje verse basilicum
+{{< /ingredients >}}
 
 ### Afwerking
+{{< ingredients >}}
 - [ ] Pakje mini mozzarella balletjes
 - [ ] 250 ml crème fraîche
 - [ ] Ruime hoeveelheid geraspte Parmezaanse kaas
 - [ ] Ghee of avocado olie
 - [ ] Zout en peper naar smaak
+{{< /ingredients >}}
 
 ## Bereiding
 
